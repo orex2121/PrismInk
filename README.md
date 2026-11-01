@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/build-portable-22A06B?style=flat-square" alt="Portable" />
 </p>
 
-<p align="center"><img src="docs/screenshot.png" alt="PrismInk main toolbar" width="120" /></p>
+<p align="center"><img src="docs/screenshot.png" alt="PrismInk settings window" width="820" /></p>
 
 <a id="languages"></a>
 <p align="center"><a href="#english">🇬🇧 English</a> | <a href="#russian">🇷🇺 Русский</a></p>
